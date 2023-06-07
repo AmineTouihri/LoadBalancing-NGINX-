@@ -1,1 +1,1 @@
-GET  localhost:3000
+GET  http://localhost:8000/tryES
